@@ -1,7 +1,7 @@
-![FastNFitness Logo](https://lh3.googleusercontent.com/KKJw0HA9fD2g9mZMhzzeretD4Tvkr7-wPVzl7WMTTXiiqO6ikS5SqR5X9E8i2HPrNQ=w300)
+
 # Welcome to the FastNFitness wiki!
 
-https://play.google.com/store/apps/details?id=com.easyfitness
+
 
 ## Track your progress (power lifting and fitness) quickly and easily
 
@@ -16,7 +16,6 @@ Don't leave the app to get your music; a music player is integrated into the app
 
 ## Development
 
-For development, [Android Studio](https://developer.android.com/studio/) with [gradle](https://gradle.org/) is used. If you want to develop and contribute, the easiest way is to use Android Studio as well.
 
 1. Fork the project on GitHub.
 2. Clone it within Android Studio or a Git Bash:
